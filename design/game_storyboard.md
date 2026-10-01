@@ -7,25 +7,25 @@
 
 **Theme:**
 
-TODO: Name and briefly describe your game's theme.
+Escape from a Haunted Mansion: The player must explore a haunted mansion, collect important items, and escape before being caught by the ghost. 
 
 **Storyline:**
 
-TODO: In one short paragraph, explain the setting, the player's goal, the items
+The player is trapped inside a haunted mansion and must explore the mansion to find six items needed to escape. The player must collect a flashlight, key, candle, map, amulet, and silver bell while avoiding the ghost that haunts the mansion. After collecting all six items, the player must reach the ballroom and confront the ghost to escape.
 the player must gather, and the threat created by the villain.
 
 ## Rooms
 
 Project One requires a minimum of eight rooms.
 
-1. TODO: Start room
-2. TODO: Room
-3. TODO: Room
-4. TODO: Room
-5. TODO: Room
-6. TODO: Room
-7. TODO: Room
-8. TODO: Villain room
+1. Foyer
+2. Library
+3. Kitchen
+4. Bedroom
+5. Basement
+6. Study
+7. Attic
+8. Ballroom
 
 Add more rooms if your design needs them.
 
@@ -34,19 +34,24 @@ Add more rooms if your design needs them.
 With the minimum eight-room design, Project One requires at least six items.
 Every room except the start room and villain room must contain one item.
 
-1. TODO: Item
-2. TODO: Item
-3. TODO: Item
-4. TODO: Item
-5. TODO: Item
-6. TODO: Item
+1. Rusty Key — Unlocks the gate leading to the abandoned castle.
+2. Flashlight — Illuminates dark areas and helps the player explore safely.
+3. Health Potion — Restores the player's health after encountering enemies.
+4. Silver Sword — Allows the player to defend themselves against the villain's guards.
+5. Ancient Map — Shows the locations of important rooms and helps the player navigate the castle.
+6. Golden Amulet — A powerful artifact needed to defeat the villain and escape the castle.
+   
+
+  
+ 
+ 
 
 If you add rooms beyond the minimum, add an item for every additional room
 except the start room and villain room.
 
 ## Villain
 
-TODO: Identify and briefly describe the villain.
+The Shadow King — A powerful and mysterious villain who controls the abandoned castle. He has trapped the player inside and guards the final chamber. The player must collect the necessary items and use the Golden Amulet to defeat him and escape.
 
 ## Storyboard and Map Check
 
